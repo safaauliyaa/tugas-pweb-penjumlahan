@@ -1,0 +1,30 @@
+body{
+    background-color: cornflowerblue;
+    background-size: 100% 100%;
+    color: cornflowerblue;
+}
+form{
+    margin: 10px;
+    font-size: 25px;
+    font-family:"Raleway Thin", sans-serif;
+    color:#2c5263;
+}
+.board{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 450px;
+    margin: 6rem auto 8.1rem auto;
+    width: 380px;
+    padding: 7px;
+}
+.daftar{
+    font-family: "Raleway Thin", sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+    color:#2c5263 ;
+}
